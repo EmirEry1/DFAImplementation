@@ -1,0 +1,15 @@
+2
+2
+q1,q2
+q2
+a,b
+q1-a>q1
+q1-b>q2
+q2-a>q2
+q2-b>q1
+END_OF_TRANSITIONS
+a,b
+a,b,a
+a,b,a,b,a
+a,b,a,b,a,b,a,a
+a,b,a,b,a,b,a,b,a

@@ -1,0 +1,3 @@
+C:/Users/emirm/CLionProjects/CS410_HW1/cmake-build-debug/CMakeFiles/CS410_HW1.dir
+C:/Users/emirm/CLionProjects/CS410_HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emirm/CLionProjects/CS410_HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
